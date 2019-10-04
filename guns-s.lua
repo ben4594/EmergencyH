@@ -4,7 +4,7 @@ TriggerEvent('esx:getSharedObject', function(obj)
     ESX = obj 
 end)
 
-ESX.RegisterServerCallback("Guns_by_ben:fetchUserRank", function(source, cb)
+ESX.RegisterServerCallback("EmergencyH:fetchUserRank", function(source, cb)
     local player = ESX.GetPlayerFromId(source)
 
     if player ~= nil then
