@@ -13,3 +13,12 @@ H - Give's you a pistol+knife.
 
 [Requirements]
 ESX https://esx-org.github.io/
+
+[Extra info]
+The script checks whether a user is a admin, mod, superadmin.
+
+
+[Future ideas]
+Add the ability to disable script with /Hdisable and /Henable
+Add easy customization for the permissions
+Add a cfg for the desired weapons and ammo.
