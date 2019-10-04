@@ -22,3 +22,7 @@ The script checks whether a user is a admin, mod, superadmin.
 Add the ability to disable script with /Hdisable and /Henable
 Add easy customization for the permissions
 Add a cfg for the desired weapons and ammo.
+
+[Installation]
+Place folder in resources folder after removing -master in the name
+Add start Bens_easy_guns in your server.cfg
