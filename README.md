@@ -25,4 +25,4 @@ Add a cfg for the desired weapons and ammo.
 
 [Installation]
 Place folder in resources folder after removing -master in the name
-Add start Bens_easy_guns in your server.cfg
+Add start EmergencyH in your server.cfg
